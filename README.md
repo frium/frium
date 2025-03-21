@@ -1,5 +1,5 @@
 ## Hi there 👋
-myBlog [](https://blog.frium.top)
+[myBlog](https://blog.frium.top)
 <!--
 **frium/frium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frium&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frium&theme=dracula)](https://github.com/frium/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frium&show_icons=true&theme=dracula&count_private=true&hide=contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frium&theme=dracula&layout=compact)](https://github.com/frium/github-readme-stats)
