@@ -1,5 +1,5 @@
 ## Hi there 👋
-[myBlog](https://blog.frium.top)
+[frium‘s blog](https://blog.frium.top)
 <!--
 **frium/frium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
