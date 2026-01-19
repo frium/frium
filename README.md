@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=frium&show_icons=true&theme=dracula&count_private=true&hide=contribs)
-[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=frium&theme=dracula&layout=compact)](https://github.com/frium/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=frium&theme=dracula&layout=compact&exclude_repo=gdou-xinji-work)](https://github.com/frium/github-readme-stats)
